@@ -1,4 +1,7 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q3290543,President of Haiti,Q790,Q790,,,1806-10-17,,,,President of Haiti
 Q1064589,Prime Minister of Haiti,Q790,Q790,,Q24204887,1988-02-09,,,,Prime Minister of Haiti
+Q113531483,Minister of Economy and Finance,,Q790,,,,,,,
 Q3251913,Foreign Minister of Haiti,Q790,Q790,,,,,,,Foreign Ministers of Haiti
+Q113531482,Minister of Interior and Territorial Communities,,Q790,,,,,,,
+Q113531478,President of the Senate of Haiti,,,,,,,,,
