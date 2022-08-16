@@ -1,1 +1,9 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q108540634,Q108540634,2011-10-18,11,,,2012-05-16,11,,,,,,,,,,
+,Q108416830,Q108416830,2012-05-16,11,,,2015-01-18,11,,,,,,,,,,
+,Q108107642,Q108107642,2015-01-18,11,,,2016-03-28,11,,,,,,,,,,
+,Q108107785,Q108107785,2016-03-28,11,,,2017-03-21,11,,,,,,,,,,
+,Q108417132,Q108417132,2017-03-21,11,,,2018-09-17,11,,,,,,,,,,
+,Q108158797,Q108158797,2018-09-17,11,,,2020-03-04,11,,,,,,,,,,
+,Q97163436,Cabinet of Joseph Joute,2020-03-04,11,,,2021-07-20,11,,,,,,,,,,
+,Q107669399,Q107669399,2021-07-20,11,,,,,,,,,,,,,,
