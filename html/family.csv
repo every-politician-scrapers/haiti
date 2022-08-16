@@ -1,0 +1,10 @@
+id,name,relationship,relative,relativename
+Q208834,René Préval,spouse,Q5361449,Elisabeth Delatour Préval
+Q209617,Jean-Bertrand Aristide,spouse,Q6851029,Mildred Trouillot
+Q21294765,Jovenel Moïse,spouse,Q65512508,Martine Moïse
+Q24951046,Sophia Saint Rémy Martelly,spouse,Q57512,Michel Martelly
+Q25389354,Ginette Michaud Privert,spouse,Q6207072,Jocelerme Privert
+Q57512,Michel Martelly,spouse,Q24951046,Sophia Saint Rémy Martelly
+Q57854,Laurent Lamothe,mother,Q3709110,Gisou Lamothe
+Q6207072,Jocelerme Privert,spouse,Q25389354,Ginette Michaud Privert
+Q65512508,Martine Moïse,spouse,Q21294765,Jovenel Moïse
