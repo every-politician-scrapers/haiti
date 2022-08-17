@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate (Haiti)"
+      ],
+      "stated_as": "President of the Haitian Senate"
+    },
+    "P580": "2006-05-11",
+    "P1365": {
+      "links": [
+        "Yvon Feuillé"
+      ],
+      "stated_as": "Yvon Feuillé"
+    },
+    "P582": "2006",
+    "P1366": {
+      "links": [
+        "Kely Bastien"
+      ],
+      "stated_as": "Kely Bastien"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate (Haiti)"
+      ],
+      "stated_as": "President of the Haitian Senate"
+    },
+    "P580": "2018-01-09",
+    "P1365": {
+      "links": [
+        "Youri Latortue"
+      ],
+      "stated_as": "Youri Latortue"
+    },
+    "P582": "2019-01-17",
+    "P1366": {
+      "links": [
+        "Carl Murat Cantave"
+      ],
+      "stated_as": "Carl Murat Cantave"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate (Haiti)"
+      ],
+      "stated_as": "President of the Haitian Senate"
+    },
+    "P580": "2021-01-12",
+    "P1365": {
+      "links": [
+        "Pierre François Sildor"
+      ],
+      "stated_as": "Pierre François Sildor"
+    }
+  }
+]
