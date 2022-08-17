@@ -1,0 +1,368 @@
+{
+  "title": "Joseph Lambert (Haitian politician)",
+  "pageID": 68202102,
+  "categories": [
+    "1961 births",
+    "Haitian politicians",
+    "Living people",
+    "People from Jacmel",
+    "People from Sud-Est (department)",
+    "Presidents of the Senate (Haiti)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joseph Lambért (born 5 February 1961 in Jacmel ) is a Haitian politician who is the president of the Haitian Senate, which currently comprises only 10 of its usual 30 senators.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacmel"
+                },
+                {
+                  "text": "Haitian Senate",
+                  "type": "internal",
+                  "page": "Senate (Haiti)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joseph Lambért"
+                ]
+              }
+            },
+            {
+              "text": "Lambert has been the president of the Senate in 2006, 2018–2019 and since January 2021.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate (Haiti)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His claim to the presidency following the assassination of President Jovenel Moïse was disputed, due to a lack of constitutional guidance and the fact that only ten elected senators remained in the legislative body.",
+              "links": [
+                {
+                  "text": "assassination of President Jovenel Moïse",
+                  "type": "internal",
+                  "page": "Assassination of Jovenel Moïse"
+                }
+              ]
+            },
+            {
+              "text": "Acting Prime Minister Claude Joseph has also claimed to take charge of Haiti following the presidential vacancy in 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Claude Joseph"
+                }
+              ]
+            },
+            {
+              "text": "The United Nations meanwhile recognized Joseph as the legitimate acting President.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            },
+            {
+              "text": "On 9 July, a group of eight senators of Haiti nominated Lambert to replace assassinated Jovenel Moïse as president, but this move was not been recognized by the acting prime minister Claude Joseph.",
+              "links": [
+                {
+                  "text": "Jovenel Moïse",
+                  "type": "internal",
+                  "page": "Assassination of Jovenel Moïse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lambert was set to be sworn-in as President of Haiti on 10 July, but he stated that it had been postponed by the senators, so that all of them could be present during the ceremony."
+            },
+            {
+              "text": "However, he later revealed to The New York Times that he had been made to abandon the swearing-in because of pressure from the United States, which had decided to recognize Ariel Henry as the interim Prime Minister and urged him to not declare himself as the President.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The New York Times"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ariel Henry"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The New York Times"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Henry started coming under scrutiny for his alleged involvement in Moïse's murder, Lambert again claimed to be Haiti's President and tried to have himself sworn-in at the Parliament building on 14 September 2021.",
+              "links": [
+                {
+                  "text": "Parliament building",
+                  "type": "internal",
+                  "page": "Haitian Parliament"
+                }
+              ]
+            },
+            {
+              "text": "A gunfight however broke out and Lambert was unable to enter."
+            },
+            {
+              "text": "He was also warned against the move by diplomats of other countries."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Haitian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1961",
+          "month": "2",
+          "day": "5",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Joseph Lambért"
+          },
+          "office": {
+            "text": "President of the Haitian Senate",
+            "links": [
+              {
+                "text": "President of the Haitian Senate",
+                "type": "internal",
+                "page": "Senate (Haiti)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 January 2021"
+          },
+          "predecessor": {
+            "text": "Pierre François Sildor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pierre François Sildor"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "9 January 2018"
+          },
+          "term_end1": {
+            "text": "17 January 2019"
+          },
+          "predecessor1": {
+            "text": "Youri Latortue",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Youri Latortue"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Carl Murat Cantave",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carl Murat Cantave"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 May 2006"
+          },
+          "term_end2": {
+            "text": "2006",
+            "number": 2006
+          },
+          "predecessor2": {
+            "text": "Yvon Feuillé",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yvon Feuillé"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Kely Bastien",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kely Bastien"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 5, 1961"
+          },
+          "birth_place": {
+            "text": "Jacmel, Haiti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacmel"
+              },
+              {
+                "type": "internal",
+                "page": "Haiti"
+              }
+            ]
+          },
+          "party": {
+            "text": "KONA"
+          },
+          "otherparty": {
+            "text": "Lespwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lespwa"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Joseph Lambert, président du Sénat pour la deuxième fois {{!}} Loop Haiti",
+          "url": "https://haiti.loopnews.com/content/joseph-lambert-president-du-senat-pour-la-deuxieme-fois",
+          "website": "Loop News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Welle (www.dw.com)",
+          "first": "Deutsche",
+          "title": "Haiti senators nominate Joseph Lambert as president {{!}} DW {{!}} 10.07.2021",
+          "url": "https://www.dw.com/en/haiti-senators-nominate-joseph-lambert-as-president/a-58222978",
+          "access-date": "2021-07-10",
+          "website": "DW.COM",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "News",
+          "first": "Latin America",
+          "date": "2021-07-08",
+          "title": "UN sees Claude Joseph as Haiti's prime minister, calls for political dialogue with contender",
+          "url": "https://riotimesonline.com/brazil-news/mercosur/mercosur-latin-america-caribbean/un-sees-claude-joseph-as-haitian-prime-minister-and-calls-for-political-dialogue-with-other-contender/",
+          "access-date": "2021-07-10",
+          "website": "The Rio Times",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-07-11",
+          "title": "Haitian Senate postpones inauguration of interim president",
+          "url": "https://tass.com/world/1312705",
+          "access-date": "2021-07-20",
+          "website": "TASS",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Catherine",
+          "last": "Porter",
+          "first2": "Harold",
+          "last2": "Isaac",
+          "first3": "Michael",
+          "last3": "Crowley",
+          "date": "19 July 2021",
+          "title": "Haiti, Urged by Foreign Powers, Announces New Government",
+          "url": "https://www.nytimes.com/2021/07/19/world/americas/claude-joseph-haiti-stepping-down.html",
+          "work": "The New York Times",
+          "accessdate": "20 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Maria",
+          "last": "Abi-Habib",
+          "first2": "Anatoly",
+          "last2": "Kurmanaev",
+          "first3": "Milo",
+          "last3": "Milfort",
+          "first4": "Andre",
+          "last4": "Paultre",
+          "first5": "Constant",
+          "last5": "Méheut",
+          "date": "14 September 2021",
+          "title": "Haiti Prosecutor Says Evidence Links Prime Minister to President’s Killing",
+          "url": "https://www.nytimes.com/2021/09/14/world/americas/haiti-henry-moise-assassination.html",
+          "work": "The New York Times",
+          "accessdate": "16 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Charles",
+          "first1": "Jacqueline",
+          "title": "Two politicians have been claiming they are in charge in Haiti. Now there are three",
+          "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article252693743.html",
+          "access-date": "10 July 2021",
+          "work": "Miami Herald",
+          "date": "9 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-07-10",
+          "title": "Haiti's senate says its head should replace assassinated president",
+          "url": "https://www.reuters.com/world/americas/haitis-senate-says-its-head-should-replace-assassinated-president-2021-07-10/",
+          "access-date": "2021-07-10",
+          "website": "Reuters",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "president of the senate of haiti"
+        }
+      ]
+    }
+  ]
+}
