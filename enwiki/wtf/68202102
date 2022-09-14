@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Joseph Lambért (born 5 February 1961 in Jacmel ) is a Haitian politician who is the president of the Haitian Senate, which currently comprises only 10 of its usual 30 senators.",
+              "text": "Joseph Lambert (born 5 February 1961 in Jacmel ) is a Haitian politician who is the president of the Haitian Senate, which currently comprises only 10 of its usual 30 senators.",
               "links": [
                 {
                   "type": "internal",
@@ -31,7 +31,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Joseph Lambért"
+                  "Joseph Lambert"
                 ]
               }
             },
@@ -151,7 +151,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Joseph Lambért"
+            "text": "Joseph Lambert"
           },
           "office": {
             "text": "President of the Haitian Senate",
