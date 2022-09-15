@@ -1405,6 +1405,9 @@
           "sentences": [
             {
               "text": "During the 2 June meeting of the Aid Effectiveness Committee of the Coordination Framework of external aid for the development of Haiti, Henry stated that improving the security situation in the country was a prerequisite for holding the elections."
+            },
+            {
+              "text": "On 11 September, he stated that the government will begin the organization of elections by the end of 2022."
             }
           ]
         }
@@ -1667,6 +1670,15 @@
           "date": "2 June 2022",
           "access-date": "6 June 2022",
           "language": "fr-HT",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.caribbeannationalweekly.com/news/caribbean-news/prime-minister-henry-gives-commitment-that-haiti-will-be-in-election-mode-before-year-end/",
+          "title": "Prime Minister Henry gives commitment that Haiti will be in election mode before year end",
+          "work": "Carribean National Weekly",
+          "date": "13 September 2022",
+          "access-date": "14 September 2022",
           "template": "citation",
           "type": "news"
         },
