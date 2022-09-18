@@ -277,6 +277,16 @@
       ],
       "references": [
         {
+          "url": "https://thehill.com/latino/3647076-more-than-100-groups-call-on-biden-to-drop-support-for-haitian-prime-minister/",
+          "title": "More than 100 groups call on Biden to drop support for Haitian prime minister",
+          "author": "Rafael Bernal",
+          "work": "The Hill",
+          "date": "16 September 2022",
+          "access-date": "17 September 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.aljazeera.com/news/2021/7/28/haiti-pm-vows-to-work-to-hold-elections-as-quickly-as-possible",
           "title": "Haiti PM vows to work to hold elections 'as quickly as possible'",
           "work": "Al-Jazeera",
@@ -493,12 +503,8 @@
       ]
     },
     {
-      "title": "Career",
-      "depth": 0
-    },
-    {
-      "title": "Medicine",
-      "depth": 1,
+      "title": "Medical career",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -760,8 +766,8 @@
       ]
     },
     {
-      "title": "Politics",
-      "depth": 1,
+      "title": "Political career",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
@@ -1042,8 +1048,6 @@
           "type": "web"
         },
         {
-          "last": "News",
-          "first": "Latin America",
           "date": "2021-07-06",
           "title": "Haitian president appoints new prime minister",
           "url": "https://riotimesonline.com/brazil-news/mercosur/central-america/haitian-president-appoints-new-prime-minister/",
@@ -1118,7 +1122,7 @@
     },
     {
       "title": "Prime Minister of Haiti",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
