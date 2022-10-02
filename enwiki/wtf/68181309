@@ -1412,6 +1412,12 @@
             },
             {
               "text": "On 11 September, he stated that the government will begin the organization of elections by the end of 2022."
+            },
+            {
+              "text": "Henry also announced a reduction in subsidies on fuel, more than doubling the cost of petrol, diesel and kerosene."
+            },
+            {
+              "text": "The decision led to countrywide protests and gangs preventing fuel from being unloaded at the Varreux terminal, creating a nationwide shortage."
             }
           ]
         }
@@ -1683,6 +1689,27 @@
           "work": "Carribean National Weekly",
           "date": "13 September 2022",
           "access-date": "14 September 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.ft.com/content/d78f364e-1f89-4edf-8d76-aa9a553a9e48",
+          "title": "Haiti crisis deepens amid fuel protests and gang warfare",
+          "author": "Joe Parkin Daniels",
+          "work": "Financial Times",
+          "date": "29 September 2022",
+          "access-date": "1 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/americas/gang-blockade-cripples-haiti-fuel-supplies-hospitals-prepare-close-2022-09-27/",
+          "title": "Gang blockade cripples Haiti fuel supplies, hospitals prepare to close",
+          "author1": "Harold Isaac",
+          "author2": "Brian Ellsworth",
+          "work": "Reuters",
+          "date": "27 September 2022",
+          "access-date": "1 October 2022",
           "template": "citation",
           "type": "news"
         },
