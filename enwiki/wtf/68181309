@@ -1147,7 +1147,7 @@
         {
           "sentences": [
             {
-              "text": "After an earthquake struck Haiti on 14 August, Henry declared a state of emergency for one month in the country and stated that all resources will be mobilized to help people affected by the quake.",
+              "text": "After an earthquake struck Haiti on 14 August, Henry declared a state of emergency for one month in the country and stated that all resources would be mobilized to help people affected by the quake.",
               "links": [
                 {
                   "text": "earthquake",
@@ -1418,6 +1418,9 @@
             },
             {
               "text": "The decision led to countrywide protests and gangs preventing fuel from being unloaded at the Varreux terminal, creating a nationwide shortage."
+            },
+            {
+              "text": "On 5 October, he appealed to the international community for help in resolving the crisis."
             }
           ]
         }
@@ -1686,7 +1689,7 @@
         {
           "url": "https://www.caribbeannationalweekly.com/news/caribbean-news/prime-minister-henry-gives-commitment-that-haiti-will-be-in-election-mode-before-year-end/",
           "title": "Prime Minister Henry gives commitment that Haiti will be in election mode before year end",
-          "work": "Carribean National Weekly",
+          "work": "Caribbean National Weekly",
           "date": "13 September 2022",
           "access-date": "14 September 2022",
           "template": "citation",
@@ -1710,6 +1713,17 @@
           "work": "Reuters",
           "date": "27 September 2022",
           "access-date": "1 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/americas/haitis-pm-henry-calls-foreign-help-amid-gang-blockade-2022-10-06/",
+          "title": "Haiti's PM Henry calls for foreign help amid gang blockade",
+          "author1": "Harold Isaac",
+          "author2": "Brian Ellsworth",
+          "work": "Reuters",
+          "date": "5 October 2022",
+          "access-date": "6 October 2022",
           "template": "citation",
           "type": "news"
         },
