@@ -1418,9 +1418,16 @@
             },
             {
               "text": "The decision led to countrywide protests and gangs preventing fuel from being unloaded at the Varreux terminal, creating a nationwide shortage."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 5 October, Henry appealed to the international community for help in resolving the crisis in Haiti."
             },
             {
-              "text": "On 5 October, he appealed to the international community for help in resolving the crisis."
+              "text": "Two days later, Henry and the Council of Ministers authorized the government to request military assistance from the international community."
             }
           ]
         }
@@ -1724,6 +1731,16 @@
           "work": "Reuters",
           "date": "5 October 2022",
           "access-date": "6 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://apnews.com/article/caribbean-united-nations-port-au-prince-haiti-antony-blinken-057bf6462ca2b00fe667e93b5289d319/gallery/ecac6f91ffec4182a7238fd955d1db93",
+          "title": "Haiti's leader requests foreign armed forces to quell chaos",
+          "author": "Dánica Coto",
+          "work": "Associated Press",
+          "date": "8 October 2022",
+          "access-date": "15 October 2022",
           "template": "citation",
           "type": "news"
         },
