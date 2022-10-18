@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Haiti",
+        "id": "Q790"
+    },
+    "cabinet": {
+      "id":     "Q107669399",
+      "start":  "2021-11-24",
+      "start":  "2021-11-26",
+      "parent": "Q18379707"
+    },
+    "reference": {
+        "P854":   "https://www.haitilibre.com/en/news-35323-haiti-flash-ministerial-reshuffle-8-new-ministers.html",
+        "P1476": {
+            "text": "Ministerial reshuffle, 8 new Ministers",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in Haiti"
+    }
+}
