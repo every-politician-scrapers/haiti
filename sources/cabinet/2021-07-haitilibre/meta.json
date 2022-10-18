@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Haiti",
+        "id": "Q790"
+    },
+    "cabinet": {
+      "id":     "Q107669399",
+      "start":  "2021-07-20",
+      "end":    "2021-07-21",
+      "parent": "Q18379707"
+    },
+    "reference": {
+        "P854":   "https://www.haitilibre.com/en/news-34275-haiti-flash-new-ministerial-cabinet-official-list.html",
+        "P577":   "2021-07-20",
+        "P1476": {
+            "text": "New Ministerial Cabinet (Official List)",
+            "language": "en"
+        }
+    },
+    "person_description": {
+        "en": "politician in Haiti"
+    }
+}
