@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+        "name": "Haiti",
+        "id": "Q790"
+    },
+    "cabinet": {
+      "id":     "Q107669399",
+      "start":  "2022-05-01",
+      "end":    "2022-06-01",
+      "parent": "Q18379707"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "272"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Haiti"
+    }
+}
