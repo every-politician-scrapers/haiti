@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Haiti",
+        "id": "Q790"
+    },
+    "cabinet": {
+      "id":     "Q107669399",
+      "start":  "2021-07-20",
+      "parent": "Q18379707"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Ariel_Henry"
+    },
+    "current_only": "true",
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Haiti"
+    }
+}
