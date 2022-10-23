@@ -978,7 +978,7 @@
               ]
             },
             {
-              "text": "On 19 July, Joseph announced that he will stand down as prime minister in favor of Henry."
+              "text": "On 19 July, Joseph announced that he would stand down as prime minister in favor of Henry."
             }
           ]
         }
@@ -1115,6 +1115,7 @@
           "url": "https://www.cnn.com/2021/07/19/americas/haiti-acting-pm-claude-joseph-to-step-down-intl/index.html",
           "access-date": "2021-07-19",
           "website": "CNN",
+          "date": "19 July 2021",
           "template": "citation",
           "type": "web"
         }
@@ -1612,7 +1613,7 @@
           "url": "https://globalnews.ca/news/8528613/canada-haiti-international-conference/",
           "title": "Canada's ambassador to Haiti says security needed before elections",
           "author": "Harold Isaac",
-          "work": "Associated Press",
+          "agency": "Associated Press",
           "publisher": "Global News",
           "date": "20 January 2022",
           "access-date": "3 February 2022",
@@ -1630,7 +1631,7 @@
         },
         {
           "url": "https://www.bloomberg.com/news/articles/2022-01-04/haiti-s-prime-minister-says-bandits-tried-to-assassinate-him",
-          "title": "Haiti Prime Minister Henry Says ‘Bandits’ Tried to Assassinate Him",
+          "title": "Haiti Prime Minister Henry Says 'Bandits' Tried to Assassinate Him",
           "author": "Jim Wyss",
           "work": "Bloomberg",
           "date": "4 January 2022",
@@ -1661,7 +1662,7 @@
         },
         {
           "author": "Robenson Geffrard",
-          "title": "Ni Ariel Henry ni les membres de l’accord du 11 septembre ne désigneront de membre au collège présidentiel",
+          "title": "Ni Ariel Henry ni les membres de l'accord du 11 septembre ne désigneront de membre au collège présidentiel",
           "trans-title": "Neither Ariel Henry nor members of the 9/11 accord will appoint a member to the presidential college",
           "url": "https://lenouvelliste.com/article/233977/ni-ariel-henry-ni-les-membres-de-laccord-du-11-septembre-ne-designeront-de-membre-au-college-presidentiel",
           "date": "2022-02-01",
@@ -1683,7 +1684,7 @@
         },
         {
           "url": "https://lenouvelliste.com/article/236164/insecurite-le-pm-henry-y-va-dune-nouvelle-promesse-deradiquer-les-gangs",
-          "title": "Insécurité : le PM Henry y va d’une nouvelle promesse d’éradiquer les gangs",
+          "title": "Insécurité : le PM Henry y va d'une nouvelle promesse d'éradiquer les gangs",
           "trans-title": "Insecurity: PM Henry makes a new promise to eradicate gangs",
           "author": "Robertson Alphonse",
           "work": "Le Nouvelliste",
@@ -1762,14 +1763,14 @@
         {
           "url": "https://thehill.com/policy/international/588013-haitian-prime-minister-flees-northern-city-after-shootout-between",
           "title": "Haitian prime minister flees northern city after shootout between security, armed group",
-          "publisher": "The Hill",
+          "work": "The Hill",
           "date": "3 January 2022",
           "template": "citation",
           "type": "web"
         },
         {
           "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article258301873.html",
-          "title": "In exclusive interview, Haiti prime minister says he’d hand assassination suspects to U.S.",
+          "title": "In exclusive interview, Haiti prime minister says he'd hand assassination suspects to U.S.",
           "author1": "Jacqueline Charles",
           "author2": "Jay Weaver",
           "work": "Miami Herald",
