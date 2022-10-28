@@ -1425,7 +1425,14 @@
         {
           "sentences": [
             {
-              "text": "On 5 October, Henry appealed to the international community for help in resolving the crisis in Haiti."
+              "text": "On 5 October 2022, Henry appealed to the international community for help in resolving the crisis in Haiti.",
+              "links": [
+                {
+                  "text": "the crisis in Haiti",
+                  "type": "internal",
+                  "page": "2022 Haitian crisis"
+                }
+              ]
             },
             {
               "text": "Two days later, Henry and the Council of Ministers authorized the government to request military assistance from the international community."
