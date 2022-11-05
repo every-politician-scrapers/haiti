@@ -44,6 +44,9 @@
                   "page": "Senate (Haiti)"
                 }
               ]
+            },
+            {
+              "text": "He was sanctioned by the Canadian and U.S. authorities for his involvement in the global illicit drug trade, corruption, and gross violations of human rights November 4, 2022."
             }
           ]
         },
@@ -264,6 +267,20 @@
           "type": "web"
         },
         {
+          "last": "Psaledakis",
+          "first": "Daphne",
+          "last2": "Ayyub",
+          "first2": "Rami",
+          "date": "2022-11-04",
+          "title": "U.S., Canada impose sanctions on Haitian politicians, accused of gang ties",
+          "url": "https://www.reuters.com/world/americas/us-canada-impose-sanctions-two-haitian-politicians-2022-11-04/",
+          "access-date": "2022-11-04",
+          "website": "Reuters",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last": "Welle (www.dw.com)",
           "first": "Deutsche",
           "title": "Haiti senators nominate Joseph Lambert as president {{!}} DW {{!}} 10.07.2021",
@@ -347,6 +364,94 @@
           "url": "https://www.reuters.com/world/americas/haitis-senate-says-its-head-should-replace-assassinated-president-2021-07-10/",
           "access-date": "2021-07-10",
           "website": "Reuters",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "U.S. and Canadian Government Actions Against Lambert",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lambert was sanctioned by the U.S. Treasury Department on November 4, 2022, pursuant to Executive Order 14059 of December 15, 2021, “Imposing Sanctions on Foreign Persons Involved in the Global Illicit Drug Trade.” The Office of Foreign Assets Control designated Lambert for having engaged in, or attempted to engage in, activities or transactions that have materially contributed to, or pose a significant risk of materially contributing to, the international proliferation of illicit drugs or their means of production.",
+              "links": [
+                {
+                  "text": "U.S. Treasury Department",
+                  "type": "internal",
+                  "page": "United States Department of the Treasury"
+                },
+                {
+                  "text": "The Office of Foreign Assets Control",
+                  "type": "internal",
+                  "page": "Office of Foreign Assets Control"
+                }
+              ]
+            },
+            {
+              "text": "In Concert with that action, Secretary of State Blinken designated Lambert — under Section 7031(c) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2022 — for his involvement in significant corruption and a gross violation of human rights.",
+              "links": [
+                {
+                  "text": "Secretary of State Blinken",
+                  "type": "internal",
+                  "page": "Antony Blinken"
+                }
+              ]
+            },
+            {
+              "text": "Canada's Minister of Foreign Affairs, Mélanie Joly, announced coordinated sanctions against Lambert under the Special Economic Measures (Haiti) Regulations on November 4, 2022.",
+              "links": [
+                {
+                  "text": "Canada's Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Canada)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mélanie Joly"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Special Economic Measures (Haiti) Regulations"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Designation of Haitian Senate President, Joseph Lambert, for Involvement in Significant Corruption and a Gross Violation of Human Rights",
+          "url": "https://www.state.gov/designation-of-haitian-senate-president-joseph-lambert-for-involvement-in-significant-corruption-and-a-gross-violation-of-human-rights/",
+          "access-date": "2022-11-04",
+          "website": "United States Department of State",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Canada",
+          "first": "Global Affairs",
+          "date": "2022-11-04",
+          "title": "Canada imposes sanctions against Haitian political elites",
+          "url": "https://www.canada.ca/en/global-affairs/news/2022/11/canada-imposes-sanctions-against-haitian-political-elites.html",
+          "access-date": "2022-11-04",
+          "website": "www.canada.ca",
           "template": "citation",
           "type": "web"
         }
