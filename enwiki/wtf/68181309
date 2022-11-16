@@ -144,7 +144,7 @@
             ]
           },
           "president1": {
-            "text": "Himself (acting)",
+            "text": "Himself",
             "formatting": {
               "italic": [
                 "Himself"
@@ -203,18 +203,37 @@
             ]
           },
           "primeminister3": {
-            "text": "Evans Paul"
+            "text": "Himself (acting)",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "term_start3": {
-            "text": "22 January 2015"
-          },
-          "term_end3": {
-            "text": "11 September 2015"
+            "text": "14 November 2022 (Acting)",
+            "formatting": {
+              "bold": [
+                "Acting"
+              ]
+            }
           },
           "predecessor3": {
+            "text": "Liszt Quitel"
+          },
+          "primeminister4": {
+            "text": "Evans Paul"
+          },
+          "term_start4": {
+            "text": "22 January 2015"
+          },
+          "term_end4": {
+            "text": "11 September 2015"
+          },
+          "predecessor4": {
             "text": "Réginald Delva"
           },
-          "successor3": {
+          "successor4": {
             "text": "Ardouin Zéphirin"
           },
           "birth_date": {
@@ -1403,39 +1422,65 @@
                   "page": "Caribbean Community"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "During the 2 June meeting of the Aid Effectiveness Committee of the Coordination Framework of external aid for the development of Haiti, Henry stated that improving the security situation in the country was a prerequisite for holding the elections."
             },
             {
               "text": "On 11 September, he stated that the government will begin the organization of elections by the end of 2022."
-            },
-            {
-              "text": "Henry also announced a reduction in subsidies on fuel, more than doubling the cost of petrol, diesel and kerosene."
-            },
-            {
-              "text": "The decision led to countrywide protests and gangs preventing fuel from being unloaded at the Varreux terminal, creating a nationwide shortage."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "On 5 October 2022, Henry appealed to the international community for help in resolving the crisis in Haiti.",
+              "text": "An announcement by Henry on 11 September regarding a reduction in subsidies on fuel, more than doubling the cost of petrol, diesel and kerosene, led to countrywide protests and gangs preventing fuel from being unloaded at the Varreux terminal, creating a nationwide shortage."
+            },
+            {
+              "text": "On 5 October, Henry appealed to the international community for help in resolving the crisis.",
               "links": [
                 {
-                  "text": "the crisis in Haiti",
+                  "text": "the crisis",
                   "type": "internal",
                   "page": "2022 Haitian crisis"
                 }
               ]
             },
             {
-              "text": "Two days later, Henry and the Council of Ministers authorized the government to request military assistance from the international community."
+              "text": "Two days later, he and the Council of Ministers authorized the government to request international military assistance."
+            },
+            {
+              "text": "The G9 alliance of gangs announced the lifting of their blockade of the Varreux terminal on 11 November."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Henry fired Justice Minister Berto Dorcé and Interior Minister Liszt Quitel on 14 November, three days after the Government Commissioner Jacques Lafontant was dismissed due to a complaint by Henry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Berto Dorcé"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liszt Quitel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jacques Lafontant"
+                }
+              ]
+            },
+            {
+              "text": "Henry appointed himself as the acting Interior Minister, while Emmelie Prophete was appointed as the Justice Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emmelie Prophete"
+                }
+              ]
             }
           ]
         }
@@ -1749,6 +1794,27 @@
           "work": "Associated Press",
           "date": "8 October 2022",
           "access-date": "15 October 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.reuters.com/world/africa/haiti-gangs-lift-fuel-terminal-blockade-amid-shortages-2021-11-12/",
+          "title": "Haiti gangs to lift fuel terminal blockade amid shortages",
+          "author1": "Gessika Thomas",
+          "author2": "Brian Ellsworth",
+          "work": "Reuters",
+          "date": "13 November 2022",
+          "access-date": "15 November 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.aa.com.tr/en/americas/haiti-prime-minister-ousts-top-officials-amid-growing-crisis/2737948",
+          "title": "Haiti prime minister ousts top officials amid growing crisis",
+          "author": "Laura Gamba Fadul",
+          "work": "Anadolu Agency",
+          "date": "14 November 2022",
+          "access-date": "15 November 2022",
           "template": "citation",
           "type": "news"
         },
