@@ -1,0 +1,80 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q106496152,Claude Joseph,,,,,,false,,,,
+Q107127987,Joseph Lambert,NormalRank,Q923362,Jacmel,true,true,false,,,,
+Q107451258,Ariel Henry,,,,,,false,,,,
+Q108426423,Duly Brutus,,,,,,false,,,,
+Q108426424,Lener Renauld,,,,,,false,,,,
+Q108426425,Pierrot Delienne,,,,,,false,,,,
+Q109775616,Roudy Stanley Penn,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q111054262,Sofia Loréus,,,,,,false,,,,
+Q1111324,Alrich Nicolas,,,,,,false,,,,
+Q113531338,Jean Victor Généus,,,,,,false,,,,
+Q113531492,Fourel Célestin,,,,,,false,,,,
+Q113531493,Jean Rodolphe Joazile,,,,,,false,,,,
+Q113531494,Pierre François Sildor,,,,,,false,,,,
+Q113531495,Yvon Feuillé,,,,,,false,,,,
+Q114735632,Charlot Bredy,,,,,,false,,,,
+Q114735634,Enold Joseph,,,,,,false,,,,
+Q114735635,Liszt Quitel,,,,,,false,,,,
+Q114735637,Marie Lucie Joseph,,,,,,false,,,,
+Q114735638,Michel Patrick Boivert,,,,,,false,,,,
+Q114735640,Ricarden St-Jean,,,,,,false,,,,
+Q114735641,Rockfeller Vincent,,,,,,false,,,,
+Q114735642,Rosemond Pradel,,,,,,false,,,,
+Q114735956,Odney Pierre Ricot,,,,,,false,,,,
+Q114736005,Berto Dorcé,,,,,,false,,,,
+Q114736193,Alex LARSEN,,,,,,false,,,,
+Q114736194,James CADET,,,,,,false,,,,
+Q114736195,Luz Kurta Cassandra FRANÇOIS,,,,,,false,,,,
+Q114736196,Nazareth AUGUSTE,,,,,,false,,,,
+Q114736197,Raymonde RIVAL,,,,,,false,,,,
+Q114736398,Wilson EDOUARD,,,,,,false,,,,
+Q114736428,Simon Dieusel DESRAS,,,,,,false,,,,
+Q114736490,Petricks JUSTIN,,,,,,false,,,,
+Q12890819,Fritz Longchamp,,,,,,false,,,,
+Q12892120,Joseph Philippe Antonio,,,,,,false,,,,
+Q12898435,Youri Latortue,NormalRank,Q852550,Gonaïves,true,true,true,false,false,true,true
+Q15635856,Pierre-Richard Casimir,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q17496908,Simon Dieuseul Desras,NormalRank,Q2403189,Saut-d'Eau,true,true,true,false,false,false,true
+Q18674649,Florence Duperval Guillaume,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q208834,René Préval,NormalRank,Q687275,Marmelade,true,true,true,false,false,false,true
+Q209617,Jean-Bertrand Aristide,NormalRank,Q1025363,Port-Salut,true,true,true,false,false,false,true
+Q21294765,Jovenel Moïse,NormalRank,Q2399286,Trou-du-Nord,true,true,true,false,false,false,true
+Q2143963,Yvon Neptune,NormalRank,Q2400714,Cavaellon,true,true,true,false,false,false,true
+Q21512019,Andris Riché,NormalRank,Q599041,"Dame-Marie, Grand'Anse",true,true,true,false,false,false,true
+Q21809321,Fritz Jean,NormalRank,Q216835,Cap-Haïtien,true,true,false,,,,
+Q22134355,Nesmy Manigat,,,,,,false,,,,
+Q23430047,Enex Jean-Charles,NormalRank,Q388473,Chansolme,true,true,true,false,false,false,true
+Q24951046,Sophia Saint Rémy Martelly,NormalRank,Q852550,Gonaïves,true,true,false,,,,
+Q24951046,Sophia Saint Rémy Martelly,NormalRank,Q60,New York City,true,true,true,false,true,false,false
+Q24951046,Sophia Saint Rémy Martelly,NormalRank,Q60,New York City,true,true,true,false,false,true,true
+Q24951558,Ronald Larêche,NormalRank,Q2637966,Mont-Organisé,true,true,true,false,false,true,true
+Q25389354,Ginette Michaud Privert,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,true,true
+Q25581833,Antonio Cheramy,NormalRank,Q216835,Cap-Haïtien,true,true,false,,,,
+Q260400,Garry Conille,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q264711,Michèle Pierre-Louis,NormalRank,Q986301,Jérémie,true,true,false,,,,
+Q28801981,Carl Murat Cantave,,,,,,false,,,,
+Q28803401,Ricard Pierre,,,,,,false,,,,
+Q28836953,Jack Guy Lafontant,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q29563695,Antonio Rodrigue,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q3045967,Jean Marie Chérestal,NormalRank,Q1025363,Port-Salut,true,true,true,false,false,false,true
+Q315427,Jean-Max Bellerive,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q3166124,Jean-Henry Céant,NormalRank,Q790,Haiti,true,false,true,false,false,false,true
+Q323218,Boniface Alexandre,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q3456201,Rénald Clérismé,NormalRank,Q790,Haiti,true,false,true,false,false,false,true
+Q3574161,Yvon Siméon,,,,,,false,,,,
+Q471075,Jacques-Édouard Alexis,NormalRank,Q852550,Gonaïves,true,true,true,false,false,false,true
+Q5415948,Evans Paul,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q560895,Gérard Latortue,NormalRank,Q852550,Gonaïves,true,true,false,,,,
+Q56651422,Bocchit Edmond,,,,,,false,,,,
+Q6207072,Jocelerme Privert,NormalRank,Q2637915,Petit-Trou-de-Nippes,true,true,true,false,false,false,true
+Q62596591,Jean-Michel Lapin,,,,,,false,,,,
+Q6386793,Kely Bastien,,,,,,false,,,,
+Q65512508,Martine Moïse,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q86979548,Marie Michele Rey,NormalRank,Q790,Haiti,true,false,false,,,,
+Q87188650,Joseph Joute,NormalRank,Q1880895,Thomonde,true,true,false,,,,
+Q887405,Hérard Abraham,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q96198910,Jean Emmanuel Jacquet,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
+Q97255367,Marie Gréta Roy CLEMENT,,,,,,false,,,,
+Q57512,Michel Martelly,NormalRank,Q34261,Port-au-Prince,true,true,true,false,false,false,true
+Q57854,Laurent Lamothe,NormalRank,Q34261,Port-au-Prince,true,true,false,,,,
