@@ -964,7 +964,7 @@
               ]
             },
             {
-              "text": "A group of prominent diplomats to Haiti called the \"Core Group\", which is made up of ambassadors to Haiti from Brazil, the European Union, France, Germany, Spain and the United States, in addition to representatives to Haiti from the Organization of American States and the United Nations, called on Henry to take charge as the head of the government on 17 July.",
+              "text": "A group of prominent diplomats to Haiti called the \"Core Group\", which is made up of ambassadors to Haiti from Brazil, the European Union, France, Germany, Spain, Canada and the United States, in addition to representatives to Haiti from the Organization of American States and the United Nations, called on Henry to take charge as the head of the government on 17 July.",
               "links": [
                 {
                   "type": "internal",
@@ -985,6 +985,10 @@
                 {
                   "type": "internal",
                   "page": "Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canada"
                 },
                 {
                   "type": "internal",
