@@ -1,0 +1,150 @@
+{
+  "title": "Bocchit Edmond",
+  "pageID": 68219995,
+  "categories": [
+    "Living people",
+    "Foreign Ministers of Haiti",
+    "Ambassadors of Haiti to the United States",
+    "Haitian diplomats",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bocchit Edmond is a Haitian politician and diplomat.",
+              "links": [
+                {
+                  "text": "Haitian",
+                  "type": "internal",
+                  "page": "Haiti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bocchit Edmond"
+                ]
+              }
+            },
+            {
+              "text": "He has been the ambassador of Haiti to the United States since December 1, 2020, when he replaced Hervé Denis, the prior ambassador.",
+              "links": [
+                {
+                  "text": "ambassador of Haiti to the United States",
+                  "type": "internal",
+                  "page": "List of ambassadors of Haiti to the United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hervé Denis"
+                }
+              ]
+            },
+            {
+              "text": "In 2022 he called for military intervention from the international community to stem unrest and violence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Previously, Edmond served as Haiti's Minister of Foreign Affairs from September 2018 until March 2020, when he was succeeded by Claude Joseph.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Foreign Ministers of Haiti"
+                },
+                {
+                  "type": "internal",
+                  "page": "Claude Joseph"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Bocchit_Edmond_-_2018_(31046028358)_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bocchit_Edmond_-_2018_(31046028358)_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bocchit_Edmond_-_2018_(31046028358)_(cropped).jpg",
+          "caption": "Bocchit Edmond in 2018",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://haitiantimes.com/2020/12/03/bocchit-edmond-appointed-as-haitis-ambassador-to-the-us/",
+          "title": "Bocchit Edmond appointed as Haiti's Ambassador to the US",
+          "date": "December 3, 2020",
+          "website": "The Haitian Times",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "number": "1333996285431517186",
+          "user": "moisejovenel",
+          "title": "Je suis fier de nommer, comme Ambassadeur à Washington, l’ancien Ministre des Affaires Etrangères et des Cultes(MAE…",
+          "date": "2 December 2020",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://antiguaobserver.com/new-government-named-in-haiti/",
+          "title": "New government named in Haiti",
+          "date": "September 7, 2018",
+          "website": "Antigua Observer Newspaper",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nouveau Premier ministre en Haïti nommé après la démission du gouvernement",
+          "url": "https://www.20minutes.fr/monde/3020951-20210414-haiti-nouveau-premier-ministre-nomme-apres-demission-gouvernement",
+          "access-date": "15 May 2021",
+          "website": "www.20minutes.fr",
+          "language": "fr",
+          "archive-date": "16 April 2021",
+          "archive-url": "https://web.archive.org/web/20210416195729/https://www.20minutes.fr/monde/3020951-20210414-haiti-nouveau-premier-ministre-nomme-apres-demission-gouvernement",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Haiti",
+            "Politics",
+            "Society"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "haiti-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
