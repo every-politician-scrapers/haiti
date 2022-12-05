@@ -267,8 +267,8 @@
           "type": "web"
         },
         {
-          "last": "Psaledakis",
-          "first": "Daphne",
+          "last1": "Psaledakis",
+          "first1": "Daphne",
           "last2": "Ayyub",
           "first2": "Rami",
           "date": "2022-11-04",
@@ -314,8 +314,8 @@
           "type": "news"
         },
         {
-          "first": "Catherine",
-          "last": "Porter",
+          "first1": "Catherine",
+          "last1": "Porter",
           "first2": "Harold",
           "last2": "Isaac",
           "first3": "Michael",
@@ -329,8 +329,8 @@
           "type": "news"
         },
         {
-          "first": "Maria",
-          "last": "Abi-Habib",
+          "first1": "Maria",
+          "last1": "Abi-Habib",
           "first2": "Anatoly",
           "last2": "Kurmanaev",
           "first3": "Milo",
@@ -340,7 +340,7 @@
           "first5": "Constant",
           "last5": "Méheut",
           "date": "14 September 2021",
-          "title": "Haiti Prosecutor Says Evidence Links Prime Minister to President’s Killing",
+          "title": "Haiti Prosecutor Says Evidence Links Prime Minister to President's Killing",
           "url": "https://www.nytimes.com/2021/09/14/world/americas/haiti-henry-moise-assassination.html",
           "work": "The New York Times",
           "accessdate": "16 September 2021",
@@ -430,10 +430,11 @@
           "inline": {}
         },
         {
+          "url": "https://www.canada.ca/en/global-affairs/news/2022/11/canada-imposes-sanctions-against-haitian-political-elites.html",
+          "title": "Canada imposes sanctions against Haitian political elites",
+          "date": "4 November 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Designation of Haitian Senate President, Joseph Lambert, for Involvement in Significant Corruption and a Gross Violation of Human Rights",
